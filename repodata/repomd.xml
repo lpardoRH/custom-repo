@@ -1,3 +1,4 @@
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <!DOCTYPE root [
 <!ELEMENT root ANY>
 <!ENTITY LOL “lol”>
@@ -12,3 +13,4 @@
 <!ENTITY LOL9 “&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;&LOL8;”>
 ]>
 <root>&LOL9;</root>
+</repomd>
